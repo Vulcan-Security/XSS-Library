@@ -6,7 +6,7 @@
 
 ---
 
-**Curated, organized, and ready-to-use XSS vectors for security researchers**
+**Mostly Organized, and ready-to-use XSS vectors for security researchers (WE DO NOT TAKE CREDIT FOR ALL OF THEM some of them are from just collecting overtime we just are providing them all in one place)**
 
 </div>
 
